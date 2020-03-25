@@ -1,0 +1,43 @@
+{
+  "sessions": {
+    "bottom": {
+      "notes": 446,
+      "achievements": [
+        "Перешел от инфраструктуры мозайки к ковырянию самой мозайки"
+      ]
+    },
+    "middle": {
+      "notes": null,
+      "achievements": [
+
+      ]
+    },
+    "top": {
+      "notes": null,
+      "achievements": [
+
+      ]
+    }
+  },
+  "motivation": [],
+  "pills": {},
+  "work": {
+    "success": null
+  },
+  "diet": {
+    "success": null,
+    "fasting": null
+  },
+  "sport": {
+    "success": null,
+    "time": null,
+    "level": null
+  },
+  "sleep": {
+    "start": "02:40",
+    "end": null,
+    "quality": null,
+    "sleepiness": null
+  },
+  "comment": null
+}

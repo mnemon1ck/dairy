@@ -1,0 +1,30 @@
+{
+  "os": [
+    "Ковырял природу сборки мозайки/конструктора"
+  ],
+  "motivation": [
+    "Активный поиск выводов и активная наработка реакции"
+  ],
+  "pills": {
+    "amph": 20
+  },
+  "work": {
+    "success": null
+  },
+  "diet": {
+    "success": null,
+    "fasting": null
+  },
+  "sport": {
+    "success": null,
+    "time": null,
+    "level": null
+  },
+  "sleep": {
+    "start": null,
+    "end": null,
+    "quality": null,
+    "sleepiness": null
+  },
+  "comment": null
+}
