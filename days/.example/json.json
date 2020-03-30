@@ -1,28 +1,14 @@
 {
-  "sessions": {
-    "bottom": {
-      "notes": null,
-      "achievements": [
+  "os": [
 
-      ]
-    },
-    "middle": {
-      "notes": null,
-      "achievements": [
+  ],
+  "motivation": [
 
-      ]
-    },
-    "top": {
-      "notes": null,
-      "achievements": [
-
-      ]
-    }
-  },
-  "motivation": [],
+  ],
   "pills": {},
   "work": {
-    "success": null
+    "success": null,
+    "notes": null
   },
   "diet": {
     "success": null,
@@ -30,14 +16,19 @@
   },
   "sport": {
     "success": null,
+    "spins": null,
     "time": null,
-    "level": null
+    "level": null,
+    "fatigue": null
   },
   "sleep": {
     "start": null,
     "end": null,
-    "quality": null,
+    "falling": null,
+    "awake": null,
     "sleepiness": null
   },
+  "stretching": null,
+  "drills": null,
   "comment": null
 }

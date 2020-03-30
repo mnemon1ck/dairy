@@ -1,0 +1,38 @@
+{
+  "os": [
+    "Рефакторинг метрик",
+    "Нет условных переходов и веток, только трансляция значений и методы",
+    "Любые аргументы любых инструкций имеют источники значения, не только ассайны"
+  ],
+  "motivation": [
+    "Активное движение и принятие, а не удержание образа действий"
+  ],
+  "work": {
+    "notes": null,
+    "success": null
+  },
+  "pills": {
+    "Choline": 2,
+    "ALCAR": 2,
+    "L-Tyrosine": 2,
+    "Hyperzine": 2,
+    "Modafinil": 60,
+    "Electro": 20
+  },
+  "diet": {
+    "fasting": null,
+    "success": null
+  },
+  "sport": {
+    "success": null,
+    "time": null,
+    "level": null
+  },
+  "sleep": {
+    "start": null,
+    "end": null,
+    "quality": null,
+    "sleepiness": null
+  },
+  "comment": null
+}

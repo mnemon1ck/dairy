@@ -1,0 +1,27 @@
+{
+  "motivation": [],
+  "os": [],
+  "work": {
+    "notes": null,
+    "success": null
+  },
+  "pills": {
+    "Nicotine": 1
+  },
+  "diet": {
+    "success": null,
+    "fasting": false
+  },
+  "sport": {
+    "success": null,
+    "time": null,
+    "level": null
+  },
+  "sleep": {
+    "start": null,
+    "end": null,
+    "quality": null,
+    "sleepiness": null
+  },
+  "comment": "Ходил к родителям, мало выводов по этой причине."
+}

@@ -1,0 +1,31 @@
+{
+  "os": [
+    "Тухлый прогреес по циклам"
+  ],
+  "motivation": [
+
+  ],
+  "work": {
+    "notes": null,
+    "success": null
+  },
+  "pills": {},
+  "diet": {
+    "strict": true,
+    "rotten": false,
+    "hunger": 4,
+    "poops": 1
+  },
+  "sport": {
+    "success": null,
+    "time": null,
+    "level": null
+  },
+  "sleep": {
+    "start": null,
+    "end": null,
+    "quality": null,
+    "sleepiness": null
+  },
+  "comment": null
+}
